@@ -13,3 +13,5 @@ for i in range(25):
     plt.title(f"Label: {train_labels[i]}")
     plt.axis('off')
 plt.show()
+
+
